@@ -13,4 +13,5 @@ High-Level steps:
 > 6. Save our cleaned data to geoJSON files for use on the web
 
 
-## I developed this process to make a visualization of [National Parks Photography](https://github.com/jefarrell/National_Park_Visualization).
+### Example Usage:
+I developed this process to make a visualization of [National Parks Photography](https://github.com/jefarrell/National_Park_Visualization).  Check it out!
